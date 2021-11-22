@@ -54,7 +54,7 @@ pl:
 
 defaults:    
     - spec_layer: Mel
-    - model: CNN_LSTM
+    - model: CNN_biLSTM
         
         
         
