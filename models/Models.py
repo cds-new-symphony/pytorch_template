@@ -133,7 +133,7 @@ class CNN_LSTM(nn.Module):
                  spec_layer,
                  norm_mode,
                  input_dim,
-                 hidden_dim=768,
+                 hidden_dim=512,
                  output_dim=88):
         super().__init__()
         
